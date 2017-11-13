@@ -1,0 +1,14 @@
+.git
+.rsyncignore
+/remote
+/data
+/python_tests/data
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+#config.yml
